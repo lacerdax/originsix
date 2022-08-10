@@ -8,8 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![JordanShoes](https://user-images.githubusercontent.com/98031390/183783817-4b425fda-56cc-43a3-b86f-c148ff43e1b9.jpg)
-
+![Originsix](https://user-images.githubusercontent.com/98031390/183787060-b0c9b471-77f2-44be-b97a-92cf466d1b5d.png)
 
 > Projeto feito na trilha OriginSix da Rocketseat colocando em prática HTML, CSS e JS.
 
