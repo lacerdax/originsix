@@ -2,6 +2,9 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
+### Acesse
+<a href="https://lacerdax.github.io/originsix/" target="_blank">Clique aqui para visualizar o site!</a>
+
 ![Originsix](https://user-images.githubusercontent.com/98031390/183787060-b0c9b471-77f2-44be-b97a-92cf466d1b5d.png)
 
 > Projeto feito na trilha OriginSix da Rocketseat colocando em prática HTML, CSS e JS.
